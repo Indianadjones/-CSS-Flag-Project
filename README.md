@@ -2,7 +2,7 @@
 To consolidate what I was learning online I did this project. Only using CSS and HTML created a Flag of Egypt.
 This tested different CSS components.
 
-
+Curious Facts
 History Of The Flag Of Egypt
 The Egyptian flag has undergone several transformations before its present state. At first, under the Muhammad Ali Dynasty, it consisted of a single color, red, a crescent shape, and three stars. The design was used until the British began their occupation after the Urabi Revolt in 1882. The cross was added to the crescent and three stars to represent the Christian minority in the country. However, the move was deeply unpopular, and it raised greater nationalist resentment against the British occupiers, subsequently leading to the 1919 Revolution.
 
