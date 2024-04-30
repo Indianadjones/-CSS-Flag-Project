@@ -1,6 +1,22 @@
 #CSS-Flag-Project
+
+This project is a simple HTML/CSS representation of a flag design. It showcases the design of a flag using basic HTML structure and CSS styling.
+
+Flag Design:
+The flag design consists of a red background with a white horizontal stripe in the middle and a black emblem at the top. The emblem features an eagle image.
+
+HTML Structure:
+The HTML file includes a <div> element with the class "flag," representing the flag container. Inside this container, there's another <div> element containing the white stripe and the black emblem.
+
+CSS Styling:
+The CSS file contains styling rules for the flag design.
+The .flag class sets the dimensions and background color of the flag container.
+Inside the flag container, the .eagle class positions the eagle image within the emblem area.
+Other styling rules define the dimensions, colors, and positions of the various elements within the flag design.
 To consolidate what I was learning online I did this project. Only using CSS and HTML created a Flag of Egypt.
 This tested different CSS components.
+
+
 
 #Curiosity.
 
